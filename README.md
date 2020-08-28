@@ -38,7 +38,7 @@ The repository contains the scripts, and results of the Masters Capstone Experie
 - Results in [__Figure_2_Capstone__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/Figure_2_Capstone.png)
 
 
-###### [__ttrIn_StudyPop_CntPlot_Script.py__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/DesciptStats_StudyPop_CntPlot_Script.py)
+###### [__ttrIn_StudyPop_CntPlot_Script__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/DesciptStats_StudyPop_CntPlot_Script.py)
 
 - Clinical avatar’s from the study population dataset are processed by selecting clinical characteristics and their sub-categories being in or out of therapeutic range for each treatment protocol.
 - Visualized as count plots
