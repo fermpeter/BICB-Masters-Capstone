@@ -21,55 +21,62 @@ I developed Python scripts to visualize and perform logistic regression analysis
 
 The repository contains the scripts, and results of the Masters Capstone Experience.
 
-###### [DesciptStats_CountsPercents_Script](https://github.com/fermpeter/BICB_Capstone/blob/master/DescriptStats_CountsPercent_Script.py)
+###### []()
 
 - Descriptive statistics from the study population are explored and visualized in tables.
--Results in *Desc_Stats_Results.pdf*
+-Results in
 
-###### [DesciptStats_StudyPopVisual_Script](https://github.com/fermpeter/BICB_Capstone/blob/master/DesciptStats_StudyPopVisual_Script.py)
+###### [__DesciptStats_StudyPop_CntPlot_Script__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/DesciptStats_StudyPop_CntPlot_Script.py)
 
 - Relevant attributes and their corresponding sub-categories from the study population are wrangled and displayed in count plots
--Results in *Figure_1_Capstone.pdf*
+-Results in [__Figure_1_Capstone__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/Figure_1_Capstone.png)
 
-###### [DesciptStats_SampSizeVisual_Script](https://github.com/fermpeter/BICB_Capstone/blob/master/DescriptStats_SampSizeVisual_Script.py)
+
+###### [__DesciptStats_SampleSize_CntPlot_Script__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/DescriptStats_SampleSize_CntPlot_Script.py)
 
 - Relevant attributes and their corresponding sub-categories from the sample size are wrangled and displayed in count plots
-- Results in *Figure_2_Capstone.pdf*
+- Results in [__Figure_2_Capstone__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/Figure_2_Capstone.png)
 
-###### [ttrIn_StudyPopVisual_Script.py](https://github.com/fermpeter/BICB_Capstone/blob/master/DesciptStats_StudyPopVisual_Script.py)
+
+###### [__ttrIn_StudyPop_CntPlot_Script.py__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/DesciptStats_StudyPop_CntPlot_Script.py)
 
 - Clinical avatar’s from the study population dataset are processed by selecting clinical characteristics and their sub-categories being in or out of therapeutic range for each treatment protocol.
 - Visualized as count plots
 - AGE
   - Sub-categories: 18-64 and 65+
-  - Results in *Figure_3_Capstone.pdf*
+  - Results in [__Figure_3_Capstone__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/Figure_3_Capstone.png)
 
 - BMI
   - Sub-categories: Underweight, Normal, Overweight, Obese
-  - Results in *Figure_5_Capstone.pdf*
+  - Results in [__Figure_5_Capstone__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/Figure_5_Capstone.png)
+
 
 - Protocol
   - Sub-categories: AAA, CAA, PGAA, PGPGI, PGPGA
-  - Results in *Figure_7_Capstone.pdf*
+  - Results in [__Figure_7_Capstone__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/Figure_7_Capstone.png)
 
 
-###### [ttrIn_SampleSizeVisual_Script.py](https://github.com/fermpeter/BICB_Capstone/blob/master/ttrIn_SampleSizeVisual_Script.py)
+
+###### [__ttrIn_SampleSize_CntPlot_Script__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/ttrIn_SampleSize_CntPlot_Script.py)
 
 - Clinical avatar’s from the sample size dataset are processed by capturing clinical characteristics and their sub-categories being in or out of therapeutic range for each treatment protocol.
 - Visualized as count plots
 - AGE
   - Sub-categories: 18-64 and 65+
-  - Results in *Figure_4_Capstone.pdf*
+  - Results in [__Figure_4_Capstone__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/Figure_4_Capstone.png)
+
 
 - BMI
   - Sub-categories: Underweight, Normal, Overweight, Obese
-  - Results in *Figure_6_Capstone.pdf*
+  - Results in [__Figure_6_Capstone__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/Figure_6_Capstone.png)
+
 
 - Protocol
   - Sub-categories: AAA, CAA, PGAA, PGPGI, PGPGA
-  - Results in *Figure_8_Capstone.pdf*
+  - Results in [__Figure_8_Capstone__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/Figure_8_Capstone.png)
 
-###### [LogisticReg_Script](https://github.com/fermpeter/BICB_Capstone/blob/master/LogisticReg_Script.py)
+
+###### [__LogisticReg_StudyPop_Script__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/LogisticReg_StudyPop_Script.py)
 - A goal of the capstone project was to compute inferential statistics using a logistic regression approach to compare to specific aims and results from secondary analysis. In the secondary analysis a chi-square test of homogeneity was performed to interpret the impact of patient characteristics (age and BMI), on the effectiveness of clinical versus pharmacogenomic treatment protocols, measured by the TTR, for the 30-day treatment-simulation data.
 
 -  Results from the logistic regression were printed to Ipython console and then imported to a table of results.
@@ -77,8 +84,7 @@ The repository contains the scripts, and results of the Masters Capstone Experie
 - Protocol Outputs
 ![Table_7_Capstone](https://user-images.githubusercontent.com/69829891/91520524-1d84eb00-e8bb-11ea-81cc-bbac1407db6a.JPG)
 
-- Age Outputs
-
+- AGE Outputs
 ![Table_9_Capstone](https://user-images.githubusercontent.com/69829891/91520638-6177f000-e8bb-11ea-8fc0-49d4cf9b6ca4.JPG)
 
 
@@ -100,11 +106,6 @@ School of Nursing
 Miki Dahlin, BSN
 
 ---
-
-
-
-
-
 
 #### __Links__
 
