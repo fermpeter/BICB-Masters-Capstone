@@ -19,7 +19,7 @@ I developed Python scripts to visualize and perform logistic regression analysis
 ---
 #### __Repository__
 
-The repository contains the scripts, and results of the Masters Capstone Experience.
+The repository contains the scripts, results, and the report from my Masters Capstone Experience.
 
 ###### [__DesciptStats_StudyPop_CntPerTables_Script__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/DescriptStats_StudyPop_CntPerTables_Script.py)
 
