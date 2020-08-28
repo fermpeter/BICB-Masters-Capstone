@@ -24,12 +24,12 @@ The repository contains the scripts, and results of the Masters Capstone Experie
 ###### [__DesciptStats_StudyPop_CntPerTables_Script__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/DescriptStats_StudyPop_CntPerTables_Script.py)
 
 - Descriptive statistics from the study population are explored and visualized in tables.
--Results in [__Descriptive_Stats_Results__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/Descriptive_Stats_Results)
+- Results in [__Descriptive_Stats_Results__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/Descriptive_Stats_Results)
 
 ###### [__DesciptStats_StudyPop_CntPlot_Script__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/DesciptStats_StudyPop_CntPlot_Script.py)
 
 - Relevant attributes and their corresponding sub-categories from the study population are wrangled and displayed in count plots
--Results in [__Figure_1_Capstone__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/Figure_1_Capstone.png)
+- Results in [__Figure_1_Capstone__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/Figure_1_Capstone.png)
 
 
 ###### [__DesciptStats_SampleSize_CntPlot_Script__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/DescriptStats_SampleSize_CntPlot_Script.py)
