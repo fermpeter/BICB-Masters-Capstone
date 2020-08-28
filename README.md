@@ -21,10 +21,10 @@ I developed Python scripts to visualize and perform logistic regression analysis
 
 The repository contains the scripts, and results of the Masters Capstone Experience.
 
-###### []()
+###### [__DesciptStats_StudyPop_CntPerTables_Script__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/DescriptStats_StudyPop_CntPerTables_Script.py)
 
 - Descriptive statistics from the study population are explored and visualized in tables.
--Results in
+-Results in [__Descriptive_Stats_Results__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/Descriptive_Stats_Results)
 
 ###### [__DesciptStats_StudyPop_CntPlot_Script__](https://github.com/fermpeter/BICB-Masters-Capstone/blob/master/DesciptStats_StudyPop_CntPlot_Script.py)
 
